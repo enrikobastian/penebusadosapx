@@ -1,144 +1,24 @@
-Judul: Follow DDAI on X
-ID: 6807ce18ac5df31a330f6b39
-Tipe: 1
-Status: CLAIMED
-Hadiah: 500 Permintaan
-------------------------------
-Judul: Tweet with hashtag [#DDAI] and tag [@ddai] on X
-ID: 6812871bac5df31a33305fdf
-Tipe: 1
-Status: CLAIMED
-Hadiah: 1500 Permintaan
-------------------------------
-Judul: Add [DDAI] to your X profile bio
-ID: 6812871bac5df31a33305fe5
-Tipe: 1
-Status: CLAIMED
-Hadiah: 1500 Permintaan
-------------------------------
-Judul: Follow Alliance Foundation on X
-ID: 6807ce18ac5df31a330f6b3e
-Tipe: 1
-Status: CLAIMED
-Hadiah: 500 Permintaan
-------------------------------
-Judul: Join our Discord community
-ID: 6812871bac5df31a33305fec
-Tipe: 1
-Status: CLAIMED
-Hadiah: 500 Permintaan
-------------------------------
-Judul: Join DDAI Telegram group
-ID: 6812871bac5df31a33305fee
-Tipe: 1
-Status: CLAIMED
-Hadiah: 500 Permintaan
-------------------------------
-Judul: Leave good reviews for DDAI on Chrome Web Store
-ID: 6812871bac5df31a33305ff0
-Tipe: 1
-Status: CLAIMED
-Hadiah: 750 Permintaan
-------------------------------
-Judul: Invite Your First Friend
-ID: 6807ce18ac5df31a330f6b46
-Tipe: 3
-Status: PENDING
-Hadiah: 500 Permintaan
-------------------------------
-Judul: Invite 5 Friends
-ID: 6807ce18ac5df31a330f6b48
-Tipe: 3
-Status: PENDING
-Hadiah: 1000 Permintaan
-------------------------------
-Judul: Invite 10 Friends
-ID: 6807ce18ac5df31a330f6b4a
-Tipe: 3
-Status: PENDING
-Hadiah: 1500 Permintaan
-------------------------------
-Judul: Invite 20 Friends
-ID: 6812871bac5df31a33305ff6
-Tipe: 3
-Status: PENDING
-Hadiah: 3000 Permintaan
-------------------------------
-Judul: Invite 30 Friends
-ID: 6812871bac5df31a33305ff8
-Tipe: 3
-Status: PENDING
-Hadiah: 4000 Permintaan
-------------------------------
-Judul: Invite 40 Friends
-ID: 6812871bac5df31a33305ffa
-Tipe: 3
-Status: PENDING
-Hadiah: 5000 Permintaan
-------------------------------
-Judul: Invite 50 Friends
-ID: 6812871bac5df31a33305ffc
-Tipe: 3
-Status: PENDING
-Hadiah: 7000 Permintaan
-------------------------------
-Judul: Invite 60 Friends
-ID: 6812871bac5df31a33305ffe
-Tipe: 3
-Status: PENDING
-Hadiah: 9000 Permintaan
-------------------------------
-Judul: Invite 70 Friends
-ID: 6812871bac5df31a33306000
-Tipe: 3
-Status: PENDING
-Hadiah: 10000 Permintaan
-------------------------------
-Judul: Invite 80 Friends
-ID: 6812871bac5df31a33306002
-Tipe: 3
-Status: PENDING
-Hadiah: 13000 Permintaan
-------------------------------
-Judul: Invite 100 Friends
-ID: 6812871bac5df31a33306004
-Tipe: 3
-Status: PENDING
-Hadiah: 15000 Permintaan
-------------------------------
-Judul: Conmment on our Post
-ID: 6812871bac5df31a33306008
-Tipe: 2
-Status: CLAIMED
-Hadiah: 750 Permintaan
-------------------------------
-Judul: Like DDAI Tweet
-ID: 686d3b495ea81eff77283bb7
-Tipe: 1
-Status: CLAIMED
-Hadiah: 500 Permintaan
-------------------------------
-Judul: Like DDAI Tweet
-ID: 686d3b5df08e800679acda61
-Tipe: 1
-Status: CLAIMED
-Hadiah: 500 Permintaan
-------------------------------
-Judul: Retweet DDAI Post
-ID: 686d3b495ea81eff77283bbf
-Tipe: 1
-Status: CLAIMED
-Hadiah: 500 Permintaan
-------------------------------
-Judul: Leave your positive comments here
-ID: 686d3b495ea81eff77283bc2
-Tipe: 1
-Status: CLAIMED
-Hadiah: 500 Permintaan
-------------------------------
-Judul: Retweet DDAI Post
-ID: 686d3b5ef08e800679acda68
-Tipe: 1
-Status: CLAIMED
-Hadiah: 500 Permintaan
-------------------------------
+6807ce18ac5df31a330f6b39
+6812871bac5df31a33305fdf
+6812871bac5df31a33305fe5
+6807ce18ac5df31a330f6b3e
+6812871bac5df31a33305fec
+6812871bac5df31a33305fee
+6812871bac5df31a33305ff0
+6807ce18ac5df31a330f6b46
+6807ce18ac5df31a330f6b48
+6807ce18ac5df31a3330f6b4a
+6812871bac5df31a33305ff6
+6812871bac5df31a33305ff8
+6812871bac5df31a33305ffa
+6812871bac5df31a33305ffc
+6812871bac5df31a33305ffe
+6812871bac5df31a33306000
+6812871bac5df31a33306002
+6812871bac5df31a33306004
+6812871bac5df31a33306008
+686d3b495ea81eff77283bb7
+686d3b5df08e800679acda61
+686d3b495ea81eff77283bbf
+686d3b495ea81eff77283bc2
+686d3b5ef08e800679acda68
